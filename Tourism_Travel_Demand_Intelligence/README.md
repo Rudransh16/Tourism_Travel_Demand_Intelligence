@@ -101,4 +101,9 @@ All members should review the integrated pipeline and final numbers.
 - Clearly label sample data as synthetic.
 
 ## Deliverables
-- 
+- Source register and data dictionary.
+- Bronze, Silver and Gold Delta tables.
+- Data quality report.
+- Power BI dashboard.
+- Architecture diagram and README.
+- Final report/presentation with limitations and evidence-based insights.
